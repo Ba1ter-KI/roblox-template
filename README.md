@@ -5,6 +5,8 @@ Ziel: Ein neues Spiel startet aus diesem Template in Minuten statt Stunden.
 
 ## Setup auf dem MacBook (einmalig)
 
+Vollständige Anleitung inkl. MCP-Bridge: `~/obsidian-vault/30-Projekte/Roblox/Setup-Mac.md`
+
 1. **Roblox Studio** installieren: https://www.roblox.com/create
 2. **Rojo** installieren: `brew install rojo`
 3. **Rojo-Plugin in Studio:** Von https://github.com/rojo-rbx/rojo/releases die neueste `rojo.rbxm` laden → Studio → Tab "Plugins" → "Plugins Folder" öffnen → Datei hineinlegen → Studio neu starten
