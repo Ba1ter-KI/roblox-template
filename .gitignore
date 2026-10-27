@@ -1,0 +1,12 @@
+# Rojo build artifacts
+*.rbxl
+*.rbxlx
+*.rbxl.lock
+*.rbxlx.lock
+sourcemap.json
+
+# Luau
+*.luauc
+
+# OS
+.DS_Store

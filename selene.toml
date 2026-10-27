@@ -1,0 +1,4 @@
+std = "luau"
+
+[lint]
+high_cyclomatic_complexity = "warn"
