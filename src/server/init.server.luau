@@ -3,4 +3,4 @@
 -- Spiel-spezifische Systeme als Module in src/server/systems/ anlegen
 -- und hier requiren/initiieren.
 
-print("[Server] Bootstrap OK")
+print("[Server] Bootstrap OK — Live-Sync von Jarvis bestätigt (2026-10-27)")
