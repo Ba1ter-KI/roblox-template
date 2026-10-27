@@ -1,5 +1,6 @@
 {
   "name": "roblox-template",
+  "serveAddress": "100.73.124.78",
   "tree": {
     "$className": "DataModel",
     "ReplicatedStorage": {
